@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CadastroUsuario/CadastroUsuario.iml" filepath="$PROJECT_DIR$/CadastroUsuario/CadastroUsuario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProvadeValidacao(TopicosemBancodeDados).iml" filepath="$PROJECT_DIR$/.idea/ProvadeValidacao(TopicosemBancodeDados).iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonrabbitmqlib/commonrabbitmqlib.iml" filepath="$PROJECT_DIR$/commonrabbitmqlib/commonrabbitmqlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumidorUserCRUD/consumidorUserCRUD.iml" filepath="$PROJECT_DIR$/consumidorUserCRUD/consumidorUserCRUD.iml" />
+    </modules>
+  </component>
+</project>

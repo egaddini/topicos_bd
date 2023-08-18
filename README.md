@@ -1,0 +1,1 @@
+video no ytb: https://youtu.be/06z_i5QgEQ4

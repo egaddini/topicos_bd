@@ -1,0 +1,3 @@
+org\example\Main.class
+br\edu\ifsc\topicos\CadastroUsuario\api\dtos\UsuarioDTO.class
+br\edu\ifsc\topicos\CadastroUsuario\constants\RabbitMQConstants.class
